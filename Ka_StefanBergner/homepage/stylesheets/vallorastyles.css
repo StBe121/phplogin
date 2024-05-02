@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+  font-family: "Arial", Times, serif; 
+}
+
+h1 {
+  color: orange; /* Überschriftenfarbe */
+  text-align: center; /* Überschriften zentrieren */
+  font-size: 24px; /* Größe der Überschrift */
+}
